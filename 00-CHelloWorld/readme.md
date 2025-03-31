@@ -1,2 +1,1 @@
-## Trabajo Práctico Número 0 "Hello World"
-
+## "Hello, World!" en C
